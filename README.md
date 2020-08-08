@@ -10,8 +10,17 @@
 
 
 
+# Writing Your Scripts
 
+###### Use this format
+```
+Name: Your Name
+Email: Your Email
+Language: Programming language used
+Biostack: Your preferred biostack
+Slack username: @your username
+```
 
-
-
-
+## Languages Used
+[×] Python
+[×] Shell 
