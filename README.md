@@ -1,13 +1,17 @@
 # Mendel-001
-Hello world!👋
-This is team-mendel
-A team of 21 members
-At the hackbio internship.
-Email: team.mendel89@gmail.com
+
+#Hi :ok_hand:, This is Team-mendel :heart:.
 
 
-#Project
-To create a team repository
-Each team member to write a script 
+-We are made up of 21 members for the ***HackBio 2020 Virtual Internship***
+
+
+######Email: team.mendel89@gmail.com
+
+
+
+
+
+
 
 
