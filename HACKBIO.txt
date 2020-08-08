@@ -1,5 +1,0 @@
-Name: Ogochukwu Caroline Chiamah
-email: okeke.ogochukwucarol@gmail.com
-language: Python
-Biostack: data analysis genomics
-Slack: Ogochukwu@slack.com
