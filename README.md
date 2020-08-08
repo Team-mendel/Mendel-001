@@ -21,7 +21,7 @@ Biostack: Your preferred biostack
 Slack username: @your username
 ```
 
-## Languages Used
+## Languages Used So Far
 
 - [X] Python
 - [X] Shell
