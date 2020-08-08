@@ -22,5 +22,5 @@ Slack username: @your username
 ```
 
 ## Languages Used
-[×] Python
-[×] Shell 
+-[×] Python
+-[×] Shell 
